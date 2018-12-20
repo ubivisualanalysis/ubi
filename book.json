@@ -1,0 +1,8 @@
+{
+	"plugins": [
+		"-lunr", "-search", "search-plus","hints","page-ref","toggle-chapters","expandable-chapters-small"
+	],
+	"styles": {
+		"website": "website.css"
+	}
+}
