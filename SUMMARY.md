@@ -1,6 +1,7 @@
 # Table of contents
 
 * [UBI帮助中心](README.md)
+* [样式测试](yang-shi-ce-shi.md)
 * [快速上手](kuai-su-shang-shou.md)
 * [常见问题FAQ](chang-jian-wen-ti-faq.md)
 * [更新日志](geng-xin-ri-zhi.md)
