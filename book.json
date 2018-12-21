@@ -1,6 +1,18 @@
 {
 	"plugins": [
-		"-lunr", "-search", "search-plus","hints","page-ref","toggle-chapters","expandable-chapters-small"
+		"-lunr", "-search", "search-plus",
+		"hints","page-ref","page-toc",
+		"page-ref",
+		"toggle-chapters","expandable-chapters-small",
+		"api-mod",
+		"api",
+		"api-extendet",
+		"apiurl",
+		"language-selected",
+		"api-language-selector",
+		"dot","tabs",
+		"table-list",
+		"markdown-parse-add-br"
 	],
 	"styles": {
 		"website": "website.css"
