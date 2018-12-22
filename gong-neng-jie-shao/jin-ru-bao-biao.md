@@ -1,6 +1,6 @@
 # 进入报表
 
-## 左侧导航&报表TAB <a id="zuo-ce-dao-hang-bao-biao-tab"></a>
+## 导航菜单&报表TAB <a id="zuo-ce-dao-hang-bao-biao-tab"></a>
 
 点击系统首页链接[http://visual.sohu-inc.com/](http://visual.sohu-inc.com/)或报表链接，登陆公司邮箱账号，直接进入系统或报表中
 
